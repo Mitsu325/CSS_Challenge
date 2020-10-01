@@ -1,0 +1,121 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: #fffafa;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    color: #282436;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.8rem;
+    margin-bottom: 120px;
+}
+
+/* ========= Ícones ========= */
+
+div {
+    display: flex;
+}
+
+a {
+    width: 60px;
+    height: 60px;
+    color: #fff;
+    background-color: #ccc;
+    text-decoration: none;
+    margin: 0 32px;
+    transform: rotate(-30deg) skew(25deg);
+    
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span {
+    width: 100%;
+    height: 100%;
+    border-radius: 4px;
+    opacity: 0; /* Sem essa classe não aparece os ícones */
+    transition: 0.5s;
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+i.fa {
+    width: 100%;
+    height: 100%;
+    font-size: 28px;
+    border-radius: 4px;
+    transition: 0.5s;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Cor */
+
+a:nth-child(1) i,
+a:nth-child(1) span {
+    background: #3b5999;
+}
+
+a:nth-child(2) i,
+a:nth-child(2) span {
+    background: #55acee;
+}
+
+a:nth-child(3) i,
+a:nth-child(3) span {
+    background: #dd4b39;
+}
+
+a:nth-child(4) i,
+a:nth-child(4) span {
+    background: #0077b5;
+}
+
+a:nth-child(5) i,
+a:nth-child(5) span {
+    background: #e4405f;
+}
+
+/* Animação */
+a:hover i {
+    transform: translate(40px, -40px);
+}
+
+a:hover span:nth-child(4) {
+    transform: translate(30px, -30px);
+    opacity: 0.8;
+}
+
+a:hover span:nth-child(3) {
+    transform: translate(20px, -20px);
+    opacity: 0.6;
+}
+
+a:hover span:nth-child(2) {
+    transform: translate(10px, -10px);
+    opacity: 0.4;
+}
+
+a:hover span:nth-child(1) {
+    transform: translate(0,0);
+    opacity: 0.2;
+}

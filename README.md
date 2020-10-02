@@ -28,6 +28,10 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 
 ### Day 01 - Ícone de mídias sociais em camadas
 
+<h1 align="center">
+    <img alt="Day 01" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Video/Day_01.gif" width="900px">
+</h1>
+
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_01)
 
 ---

@@ -1,4 +1,11 @@
-## 🚀 30 Days - CSS Challenge 🚀
+<h3 align="center">
+    <b>🚀 30 Days - CSS Challenge 🚀</b>  
+    <br><br>
+ 
+ <p align="center">
+    <img src="https://img.shields.io/badge/tech-front--end-brightgreen" />
+    <img src="https://img.shields.io/badge/auth-Mitsu325-orange" />
+</h3>
 
 <br>
 

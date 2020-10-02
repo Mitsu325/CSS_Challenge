@@ -36,6 +36,8 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 
 <br>
 
+### Day 02 - Loader animado
+
 <h1 align="center">
     <img alt="Day 02" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_02.gif" width="900px">
 </h1>

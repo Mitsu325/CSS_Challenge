@@ -37,7 +37,7 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 <br>
 
 <h1 align="center">
-    <img alt="Day 02" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_2.gif" width="900px">
+    <img alt="Day 02" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_02.gif" width="900px">
 </h1>
 
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_02)

@@ -44,6 +44,16 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_02)
 
+<br>
+
+### Day 03 - Mudança de cor no texto
+
+<h1 align="center">
+    <img alt="Day 02" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_03.gif" width="900px">
+</h1>
+
+[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_03)
+
 ---
 
 <h4 align="center">

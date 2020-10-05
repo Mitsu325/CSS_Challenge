@@ -1,0 +1,72 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: #281a43;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    color: #fafafc;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 1.8rem;
+    margin-bottom: 80px;
+}
+
+.fa {
+    font-size: 1.5rem;
+    color: #ba70ef;
+}
+
+/* ========= Loader ========= */
+
+.btn {
+    width: 200px;
+    height: 60px;
+    color: #f99094;
+    background: transparent;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 1.2rem;
+    border: 4px solid;
+    border-radius: 8px;
+    cursor: pointer;
+    position: relative;
+}
+
+.btn::before, 
+.btn::after {
+    content: ""; /* Incluído dois content (antes e depois de btn) */
+    width: 14px;
+    height: 4px;
+    background: #281a43;
+    position: absolute;
+    transform: skewX(50deg); /* inclinar o elemento */
+    transition: .4s ease;
+}
+
+.btn::before {
+    top: -4px;
+    left: 10%;
+}
+
+.btn::after {
+    bottom: -4px;
+    right: 10%;
+}
+
+.btn:hover::before {
+    left: 80%;
+}
+
+.btn:hover::after {
+    right: 80%;
+}

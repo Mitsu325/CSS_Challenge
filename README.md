@@ -64,6 +64,16 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_04)
 
+<br>
+
+### Day 05 - Efeito pulsar
+
+<h1 align="center">
+    <img alt="Day 05" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_05.gif" width="900px">
+</h1>
+
+[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_05)
+
 ---
 
 <h4 align="center">

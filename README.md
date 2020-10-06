@@ -74,6 +74,16 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_05)
 
+<br>
+
+### Day 06 - Efeito lightning text
+
+<h1 align="center">
+    <img alt="Day 06" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_06.gif" width="900px">
+</h1>
+
+[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_06)
+
 ---
 
 <h4 align="center">

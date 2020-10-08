@@ -84,6 +84,16 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_06)
 
+<br>
+
+### Day 07 - Preloader animado
+
+<h1 align="center">
+    <img alt="Day 07" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_07.gif" width="900px">
+</h1>
+
+[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_07)
+
 ---
 
 <h4 align="center">

@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: #f06060;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4rem;
+}
+
+/* ========= Pendulo ========= */
+
+.text {
+    color: #282d43;
+    font-family: 'Press Start 2P', cursive;
+}
+
+span::before {
+    content: ' ';
+    animation: emoji-switch 9s linear infinite;
+}
+
+
+/* ========= Animação ========= */
+
+@keyframes emoji-switch {
+    0% { content: '🎧'; }
+    
+    12.5% { content: '📚'; }
+
+    25% { content: '💻'; }
+    
+    37.5% { content: '🎨'; }
+    
+    50% { content: '🛒'; }
+
+    62.5% { content: '💄'; }
+    
+    75% { content: '🍣'; }
+    
+    87.5% { content: '💅🏻'; }
+    
+    100% { content: '🎧'; }
+}

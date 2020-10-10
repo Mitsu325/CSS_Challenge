@@ -94,6 +94,16 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_07)
 
+<br>
+
+### Day 08 - Coração batendo
+
+<h1 align="center">
+    <img alt="Day 08" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_08.gif" width="900px">
+</h1>
+
+[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_08)
+
 ---
 
 <h4 align="center">

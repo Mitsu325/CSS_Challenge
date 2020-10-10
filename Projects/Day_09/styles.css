@@ -1,0 +1,76 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: #facc74;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ========= Pendulo ========= */
+
+.pendulo {
+    width: 400px;
+    border-top: 12px solid #005d6f;
+    display: flex;
+    justify-content: space-around;
+}
+
+.pendulo span {
+    width: 3px;
+    height: 320px;
+    background-color: #9fb0c0;
+    display: block;
+    transform-origin: top; /* Posição base da rotação */
+    position: relative;
+}
+
+.pendulo span::before {
+    content: ' ';
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #9fb0c0;
+    box-shadow: 0 2px 4px #999999;
+    position: absolute;
+    bottom: 0;
+    left: -40px;
+}
+
+.pendulo span:first-child {
+    animation: move-left 2s ease-in infinite;
+}
+
+
+.pendulo span:last-child {
+    animation: move-right 2s ease-in infinite 1s; /* Delay de 1 segundo */
+}
+
+/* ========= Animação ========= */
+
+@keyframes move-left {
+    0% { transform: rotate(0deg); }
+        
+    25% { transform: rotate(60deg); }
+    
+    50% { transform: rotate(0deg); }
+
+    100% { transform: rotate(0deg); }
+}
+
+@keyframes move-right {
+    0% { transform: rotate(0deg); }
+        
+    25% { transform: rotate(-60deg); }
+    
+    50% { transform: rotate(0deg); }
+
+    100% { transform: rotate(0deg); }
+}

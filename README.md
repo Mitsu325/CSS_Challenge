@@ -27,6 +27,7 @@
 
 <br>
 <a id="sobre"></a>
+
 ## 🧐 Sobre o desafio
 
 Serão 30 dias fazendo mini projetos diários com HTML5 e CSS3 visando melhorar a habilidade de codificação.
@@ -34,6 +35,7 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 
 <br>
 <a id="regras"></a>
+
 ## 📢 Regras gerais
 
 * Realizar um projeto por dia
@@ -42,8 +44,11 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 
 <br>
 <a id="resultado"></a>
+
 ## 🎉 Resultado
+
 <a id="day01"></a>
+
 ### Day 01 - Ícone de mídias sociais em camadas
 
 <h1 align="center">
@@ -53,7 +58,9 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_01)
 
 <br>
+
 <a id="day02"></a>
+
 ### Day 02 - Loader animado
 
 <h1 align="center">
@@ -63,7 +70,9 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_02)
 
 <br>
+
 <a id="day03"></a>
+
 ### Day 03 - Mudança de cor no texto
 
 <h1 align="center">
@@ -73,7 +82,9 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_03)
 
 <br>
+
 <a id="day04"></a>
+
 ### Day 04 - Botão animado
 
 <h1 align="center">
@@ -83,7 +94,9 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_04)
 
 <br>
+
 <a id="day05"></a>
+
 ### Day 05 - Efeito pulsar
 
 <h1 align="center">
@@ -93,7 +106,9 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_05)
 
 <br>
+
 <a id="day06"></a>
+
 ### Day 06 - Efeito lightning text
 
 <h1 align="center">
@@ -103,7 +118,9 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_06)
 
 <br>
+
 <a id="day07"></a>
+
 ### Day 07 - Preloader animado
 
 <h1 align="center">
@@ -113,7 +130,9 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_07)
 
 <br>
+
 <a id="day08"></a>
+
 ### Day 08 - Coração batendo
 
 <h1 align="center">
@@ -123,7 +142,9 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_08)
 
 <br>
+
 <a id="day09"></a>
+
 ### Day 09 - Pêndulo de Newton
 
 <h1 align="center">
@@ -133,7 +154,9 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_09)
 
 <br>
+
 <a id="day10"></a>
+
 ### Day 10 - Animação texto alternando
 
 <h1 align="center">

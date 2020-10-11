@@ -24,6 +24,7 @@
     - [Day 08 - Coração batendo](#day08)
     - [Day 09 - Pêndulo de Newton](#day09)
     - [Day 10 - Animação texto alternando](#day10)
+    - [Day 11 - Botão animado #2](#day11)
 
 <br>
 <a id="sobre"></a>
@@ -164,6 +165,19 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 </h1>
 
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_10)
+
+<br>
+
+<a id="day11"></a>
+
+### Day 11 - Botão animado #2
+
+<h1 align="center">
+    <img alt="Day 11" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_11.gif" width="900px">
+</h1>
+
+[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_11)
+
 
 ---
 

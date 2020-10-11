@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: #e9e2dc;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    color: #15161a;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.8rem;
+    margin-bottom: 80px;
+}
+
+/* ========= Botão ========= */
+
+.btn {
+    width: 200px;
+    height: 60px;
+    color: #63432d;
+    background: transparent;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.2rem;
+    border: 4px solid #63432d;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px #999999;
+    cursor: pointer;
+    overflow: hidden;
+    transition-duration: 0.5s;
+    position: relative;
+}
+
+.btn::after {
+    content: ' ';
+    width: 100%;
+    height: 0;
+    background: #63432d;
+    border-radius: 0 0 50% 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1; /* Precisa para o texto do btn ficar por cima */
+    transition-duration: 0.5s;
+}
+
+.btn:hover {
+    color: #e9e2dc;
+}
+
+.btn:hover::after {
+    height: 100px;
+}

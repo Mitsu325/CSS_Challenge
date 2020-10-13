@@ -26,6 +26,7 @@
     - [Day 10 - Animação texto alternando](#day10)
     - [Day 11 - Botão animado #2](#day11)
     - [Day 12 - Efeito de preenchimento](#day12)
+    - [Day 13 - Loading com efeito](#day13)
 
 <br>
 <a id="sobre"></a>
@@ -181,7 +182,7 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 
 <br>
 
-<a id="day11"></a>
+<a id="day12"></a>
 
 ### Day 12 - Efeito de preenchimento
 
@@ -191,6 +192,17 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_12)
 
+<br>
+
+<a id="day13"></a>
+
+### Day 13 - Loading com efeito
+
+<h1 align="center">
+    <img alt="Day 13" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_13.gif" width="900px">
+</h1>
+
+[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_13)
 ---
 
 <h4 align="center">

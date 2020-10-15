@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: #4a0a0e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    width: 80%;
+    color: transparent;
+    background-image: url(https://source.unsplash.com/Oaqk7qqNh_c);
+    font-size: 8rem;
+    text-align: center;
+    -webkit-background-clip: text;
+    animation: move-background 5s linear infinite;
+}
+
+@keyframes move-background {
+    from {background-position: 100% 0}
+
+    to {background-position: 100% 100%}
+}

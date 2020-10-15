@@ -27,6 +27,7 @@
     - [Day 11 - Botão animado #2](#day11)
     - [Day 12 - Efeito de preenchimento](#day12)
     - [Day 13 - Loading com efeito](#day13)
+    - [Day 14 - Fundo de texto animado](#day14)
 
 <br>
 <a id="sobre"></a>
@@ -215,6 +216,15 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 </h1>
 
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_14)
+
+<br>
+<strong>Versão 2</strong>
+
+<h1 align="center">
+    <img alt="Day 14" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_14_2.gif" width="900px">
+</h1>
+
+[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_14_2)
 
 ---
 

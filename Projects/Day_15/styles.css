@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: #10d9e0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: #fff;
+    font-family: 'Sora', sans-serif;
+    font-size: 8rem;
+    text-align: center;
+    text-shadow: 0 0 8px #fff, 0 40px 5px rgba(0,0,0,.1); /* Efeito blur e shadow */
+}
+
+img {
+    position: absolute;
+    top: 80%;
+    right: -20%;
+}
+
+.float {
+    animation: shake 3s linear infinite;
+    animation-direction: alternate;
+}
+
+@keyframes shake {
+    from { transform: rotate(-5deg) }
+    
+    to { transform: rotate(5deg) }
+}

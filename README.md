@@ -28,7 +28,7 @@
     - [Day 12 - Efeito de preenchimento](#day12)
     - [Day 13 - Loading com efeito](#day13)
     - [Day 14 - Fundo de texto animado](#day14)
-    - [Day 15 - Texto flutuante](#day14)
+    - [Day 15 - Texto flutuante](#day15)
 
 <br>
 <a id="sobre"></a>

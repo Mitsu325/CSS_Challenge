@@ -30,6 +30,7 @@
     - [Day 14 - Fundo de texto animado](#day14)
     - [Day 15 - Texto flutuante](#day15)
     - [Day 16 - Botão animado #3](#day16)
+    - [Day 17 - Loading animado](#day17)
 
 <br>
 <a id="sobre"></a>
@@ -252,7 +253,17 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_16)
 
+<br>
 
+<a id="day17"></a>
+
+### Day 17 - Loading animado
+
+<h1 align="center">
+    <img alt="Day 17" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_17.gif" width="900px">
+</h1>
+
+[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_17)
 
 ---
 

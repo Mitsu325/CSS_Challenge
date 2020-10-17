@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: #010120;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ========= Loading ========= */
+
+.loading {
+    width: 200px;
+    height: 200px;
+    background: url(./smile.png) center no-repeat;
+    background-size: 220px;
+    background-color: #ffd800;
+    border-radius: 50%;
+    animation: loader 2s linear infinite;
+    animation-direction: alternate;
+}
+
+@keyframes loader {
+    0% { transform: rotateX(0deg) rotateY(0deg); }
+
+    50% { transform: rotateX(0deg) rotateY(180deg); }
+
+    100% { transform:  rotateX(180deg) rotateY(180deg); }
+}

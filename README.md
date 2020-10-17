@@ -242,12 +242,12 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 
 <br>
 
-<a id="day15"></a>
+<a id="day16"></a>
 
 ### Day 16 - Botão animado #3
 
 <h1 align="center">
-    <img alt="Day 16" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_16.gif" width="900px">
+    <img alt="Day 16" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_16_basic.gif" width="900px">
 </h1>
 
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_16)

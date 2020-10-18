@@ -31,6 +31,7 @@
     - [Day 15 - Texto flutuante](#day15)
     - [Day 16 - Botão animado #3](#day16)
     - [Day 17 - Loading animado](#day17)
+    - [Day 18 - Texto esfumaçado](#day18)
 
 <br>
 <a id="sobre"></a>
@@ -264,6 +265,18 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 </h1>
 
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_17)
+
+<br>
+
+<a id="day18"></a>
+
+### Day 18 - Texto esfumaçado
+
+<h1 align="center">
+    <img alt="Day 18" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_18.gif" width="900px">
+</h1>
+
+[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_18)
 
 ---
 

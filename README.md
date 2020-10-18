@@ -278,6 +278,15 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_18)
 
+<br>
+<strong>Versão 2</strong>
+
+<h1 align="center">
+    <img alt="Day 18" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_18_2.gif" width="900px">
+</h1>
+
+[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_18_2)
+
 ---
 
 <h4 align="center">

@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 90%;
+    height: 100vh;
+    background: #fff;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+ul {
+    height: 60%;
+    color: #309dc3;
+    font-family: 'Piazzolla', serif;
+    font-size: 4rem;
+    margin: 40px 0 0;
+    padding: 0;
+    display: flex;
+    cursor: pointer;
+}
+
+li {
+    list-style: none;
+    writing-mode: vertical-rl;
+    transition: 2s;
+    transition-delay: calc(.2s * var(--i));
+}
+
+img {
+    height: 400px;
+    align-self: flex-end;
+}
+
+/* ======== Animação ======== */
+
+ul:hover li {
+    transform: rotate(45deg) translateY(-200px);
+    opacity: 0;
+    filter: blur(20px);
+}

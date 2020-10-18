@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: #f1f5f6;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    color: #309dc3;
+    font-family: 'Piazzolla', serif;
+    font-size: 8rem;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    cursor: pointer;
+}
+
+li {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 2s;
+    transition-delay: calc(.2s * var(--i));
+}
+
+img {
+    height: 500px;
+    margin-top: 200px;
+}
+
+/* ======== Animação ======== */
+
+ul:hover li {
+    transform: rotate(45deg) translateY(-200px);
+    opacity: 0;
+    filter: blur(20px);
+}

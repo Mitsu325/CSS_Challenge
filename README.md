@@ -32,6 +32,7 @@
     - [Day 16 - Botão animado #3](#day16)
     - [Day 17 - Loading animado](#day17)
     - [Day 18 - Texto esfumaçado](#day18)
+    - [Day 19 - Fundo de partículas animadas](#day19)
 
 <br>
 <a id="sobre"></a>
@@ -286,6 +287,18 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 </h1>
 
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_18_2)
+
+<br>
+
+<a id="day19"></a>
+
+### Day 19 - Fundo de partículas animadas
+
+<h1 align="center">
+    <img alt="Day 19" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_19.gif" width="900px">
+</h1>
+
+[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_19)
 
 ---
 

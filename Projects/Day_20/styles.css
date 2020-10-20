@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: #15161a;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    color: #e9e2dc;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.8rem;
+    margin-bottom: 80px;
+}
+
+/* ========= Botão ========= */
+
+.btn {
+    width: 400px;
+    height: 80px;
+    color: #09f7f2;
+    background: transparent;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2rem;
+    letter-spacing: .4rem;
+    text-shadow: 0 0 4px #09f7f2;
+    border-radius: 8px;
+    border: 2px solid #09f7f2;
+    box-shadow: 0 0 8px #09f7f2, 0 0 24px #1b0df6;
+    cursor: pointer;
+    overflow: hidden;
+    position: relative;
+}
+
+.btn::after {
+    content: ' ';
+    width: 100%;
+    height: 40%;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translateX(-100%) rotate(45deg);
+    transition: 1s;
+}
+
+.btn:hover::after {
+    transform: translateX(100%) rotate(45deg);
+}

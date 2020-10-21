@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: #ff7e0e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ========= Spheres ========= */
+
+.bouncing {
+    display: flex;
+    border-bottom: 4px solid #cfbfbe;
+}
+
+.bouncing span {
+    width: 32px;
+    height: 32px;
+    background: #8fb114;
+    border-radius: 50%;
+    margin: 0 10px;
+    animation: bounce 1s linear infinite;
+    animation-delay: calc(.2s * var(--i));
+}
+
+.bouncing span:nth-child(odd) {
+    background-color: #c9299e;
+}
+
+/* ========= Animação ========= */
+
+@keyframes bounce {
+    0% { transform: translateY(0); }
+            
+    50% { transform: translateY(-120px); }
+
+    100% { transform: translateY(0); }
+}

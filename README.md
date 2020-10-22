@@ -35,6 +35,7 @@
     - [Day 19 - Fundo de partículas animadas](#day19)
     - [Day 20 - Botão animado #4](#day20)
     - [Day 21 - Esferas quicando](#day21)
+    - [Day 22 - Ícones com efeito](#day22)
 
 <br>
 <a id="sobre"></a>
@@ -325,6 +326,18 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 </h1>
 
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_21)
+
+<br>
+
+<a id="day22"></a>
+
+### Day 22 - Ícones com efeito
+
+<h1 align="center">
+    <img alt="Day 22" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_22.gif" width="900px">
+</h1>
+
+[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_22)
 
 ---
 

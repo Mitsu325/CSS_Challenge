@@ -1,0 +1,92 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: #bfd7ea;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ========= Loading ========= */
+
+.loader {
+    width: 120px;
+    height: 120px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+    transform: rotate(45deg);
+    animation: move 1.5s linear infinite;
+}
+
+.loader span {
+    width: 60px;
+    height: 60px;
+    background-color: #004f2d;
+    display: inline-block;
+    animation: rotate 1.5s linear infinite;
+}
+
+/* Coração */
+
+.loader span::before,
+.loader span::after {
+    content: ' ';
+    width: 60px;
+    height: 60px;
+    background-color: #004f2d;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.loader span:nth-child(1)::before { top: -30px; }
+
+.loader span:nth-child(1)::after { left: -30px; }
+
+.loader span:nth-child(2)::before { top: -30px; }
+
+.loader span:nth-child(2)::after { right: -30px; }
+
+.loader span:nth-child(3)::before { bottom: -30px; }
+
+.loader span:nth-child(3)::after { left: -30px; }
+
+.loader span:nth-child(4)::before { bottom: -30px; }
+
+.loader span:nth-child(4)::after { right: -30px; }
+
+/* Animação */
+
+@keyframes move {
+    0% { width: 120px; height: 120px; }
+
+    10% { width: 120px; height: 120px; }
+
+    50% { width: 180px; height: 180px; }
+
+    90% { width: 120px; height: 120px; }
+
+    100% { width: 120px; height: 120px; }
+}
+
+@keyframes rotate {
+    0% { transform: rotate(0); }
+
+    10% { transform: rotate(0); }
+
+    25% { transform: rotate(180deg); }
+
+    50% { transform: rotate(360deg); }
+
+    90% { transform: rotate(360deg); }
+
+    100% { transform: rotate(360deg); }
+}

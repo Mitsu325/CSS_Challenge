@@ -36,6 +36,7 @@
     - [Day 20 - Botão animado #4](#day20)
     - [Day 21 - Esferas quicando](#day21)
     - [Day 22 - Ícones com efeito](#day22)
+    - [Day 23 - Botão animado #5](#day23)
 
 <br>
 <a id="sobre"></a>
@@ -338,6 +339,18 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 </h1>
 
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_22)
+
+<br>
+
+<a id="day23"></a>
+
+### Day 23 - Botão animado #5
+
+<h1 align="center">
+    <img alt="Day 23" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_23.gif" width="900px">
+</h1>
+
+[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_23)
 
 ---
 

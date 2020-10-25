@@ -38,6 +38,7 @@
     - [Day 22 - Ícones com efeito](#day22)
     - [Day 23 - Botão animado #5](#day23)
     - [Day 24 - Preloader animado](#day24)
+    - [Day 25 - Checkbox animado](#day25)
 
 <br>
 <a id="sobre"></a>
@@ -364,6 +365,18 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 </h1>
 
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_24)
+
+<br>
+
+<a id="day25"></a>
+
+### Day 25 - Checkbox animado
+
+<h1 align="center">
+    <img alt="Day 25" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_25.gif" width="900px">
+</h1>
+
+[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_25)
 
 ---
 

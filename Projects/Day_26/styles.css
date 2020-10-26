@@ -1,0 +1,77 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background: #72efdd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ========= Spheres ========= */
+
+.baseline {
+    width: 28%;
+    border-bottom: 4px solid #4ea8de;
+    position: relative;
+    animation: animate-baseline 2s linear infinite;
+}
+
+.hexagon {
+    width: 50px;
+    height: 30px;
+    background: #7400b8;
+    position: absolute;
+    left: 0;
+    bottom: 14px;
+    animation: animate-hexagon 2s linear infinite;
+}
+
+.hexagon::before {
+    content: "";
+    position: absolute;
+    top: 0; 
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #7400b8;
+    transform: rotate(60deg);
+}
+
+.hexagon::after {
+    content: "";
+    position: absolute;
+    top: 0; 
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #7400b8;
+    transform: rotate(-60deg);
+}
+
+/* ========= Animação ========= */
+
+@keyframes animate-baseline  {
+    0% {transform: rotate(20deg);}
+
+    25% {transform: rotate(0);}
+
+    50% {transform: rotate(-20deg);}
+
+    75% {transform: rotate(0);}
+
+    100% {transform: rotate(20deg)};
+}
+
+@keyframes animate-hexagon {
+    0% {left: 0;}
+
+    50% {left: calc(100% - 50px); transform: rotate(360deg);}
+
+    100% {left: 0;}
+}

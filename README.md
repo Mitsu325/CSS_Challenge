@@ -39,6 +39,7 @@
     - [Day 23 - Botão animado #5](#day23)
     - [Day 24 - Preloader animado](#day24)
     - [Day 25 - Checkbox animado](#day25)
+    - [Day 26 - Loader animado](#day26)
 
 <br>
 <a id="sobre"></a>
@@ -377,6 +378,18 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 </h1>
 
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_25)
+
+<br>
+
+<a id="day26"></a>
+
+### Day 26 - Loader animado
+
+<h1 align="center">
+    <img alt="Day 26" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_26.gif" width="900px">
+</h1>
+
+[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_26)
 
 ---
 

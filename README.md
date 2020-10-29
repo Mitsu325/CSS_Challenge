@@ -42,6 +42,7 @@
     - [Day 26 - Loader animado](#day26)
     - [Day 27 - Efeito pulsar #2](#day27)
     - [Day 28 - Background color change](#day28)
+    - [Day 29 - Barra de navegação responsiva](#day29)
 
 <br>
 <a id="sobre"></a>
@@ -416,6 +417,18 @@ Este desafio foi inspirado pela [@MilenaCarecho](https://github.com/MilenaCarech
 </h1>
 
 [Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_28)
+
+<br>
+
+<a id="day29"></a>
+
+### Day 29 - Barra de navegação responsiva
+
+<h1 align="center">
+    <img alt="Day 29" src="https://github.com/Mitsu325/CSS_Challenge/blob/master/.github/Image/Day_29.gif" width="900px">
+</h1>
+
+[Meu código](https://github.com/Mitsu325/CSS_Challenge/tree/master/Projects/Day_29)
 
 ---
 

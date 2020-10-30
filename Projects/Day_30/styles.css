@@ -1,0 +1,133 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: #161616;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ========= Explosion ========= */
+
+.explosion {
+    width: 4px;
+    height: 80px;
+    overflow: hidden;
+    position: absolute;
+    left: -2px;
+    bottom: 0;
+    transform-origin: 50% 100%;
+}
+
+.explosion:nth-child(1) { transform: rotate(0deg) translateY(-15px); }
+
+.explosion:nth-child(2) { transform: rotate(30deg) translateY(-15px); }
+
+.explosion:nth-child(3) { transform: rotate(60deg) translateY(-15px); }
+
+.explosion:nth-child(4) { transform: rotate(90deg) translateY(-15px); }
+
+.explosion:nth-child(5) { transform: rotate(120deg) translateY(-15px); }
+
+.explosion:nth-child(6) { transform: rotate(150deg) translateY(-15px); }
+
+.explosion:nth-child(7) { transform: rotate(180deg) translateY(-15px); }
+
+.explosion:nth-child(8) { transform: rotate(210deg) translateY(-15px); }
+
+.explosion:nth-child(9) { transform: rotate(240deg) translateY(-15px); }
+
+.explosion:nth-child(10) { transform: rotate(270deg) translateY(-15px); }
+
+.explosion:nth-child(11) { transform: rotate(300deg) translateY(-15px); }
+
+.explosion:nth-child(12) { transform: rotate(330deg) translateY(-15px); }
+
+.explosion:before {
+    content: "";
+    height: 40px;
+    opacity: 0.8;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    left: 0;
+}
+
+/* ========= Firework ========= */
+
+.firework:nth-child(1) {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: scale(1);
+}
+
+.firework:nth-child(1) .explosion:before {
+    background-color: #ffff3f;
+    animation: explosion 2s ease-in-out infinite;
+}
+
+.firework:nth-child(2) {
+    position: absolute;
+    top: 60%;
+    left: 80%;
+    transform: scale(0.8);
+}
+
+.firework:nth-child(2) .explosion:before {
+    background-color: #ff006e;
+    animation: explosion 2s .6s ease-in-out infinite;
+}
+
+.firework:nth-child(3) {
+    position: absolute;
+    top: 20%;
+    right: 70%;
+    transform: scale(1.2);
+}
+
+.firework:nth-child(3) .explosion:before {
+    animation: explosion 2s .4s ease-in-out infinite;
+    background-color: #6fffe9;
+}
+
+.firework:nth-child(4) {
+    position: absolute;
+    bottom: 20%;
+    left: 20%;
+    transform: scale(1.4);
+}
+
+.firework:nth-child(4) .explosion:before {
+    background-color: #9b5de5;
+    animation: explosion 2s .8s ease-in-out infinite;
+}
+
+.firework:nth-child(5) {
+    position: absolute;
+    top: 20%;
+    right: 20%;
+    transform: scale(1.4);
+}
+
+.firework:nth-child(5) .explosion:before {
+    background-color: #9ef01a;
+    animation: explosion 2s ease-in-out infinite;
+}
+
+/* ========= Animação ========= */
+
+@keyframes explosion {
+    0% { top: 100%; }
+
+    25% { left: 100%; }
+
+    33%, 100% { top: -50%; }
+}
